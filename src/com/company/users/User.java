@@ -21,14 +21,6 @@ public class User {
         return accNumber;
     }
 
-    public String getUser() {
-        return user;
-    }
-
-    public void setUser(String user) {
-        this.user = user;
-    }
-
     public double getBalance() {
         return balance;
     }
